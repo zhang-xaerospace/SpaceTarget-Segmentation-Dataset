@@ -3,6 +3,6 @@ This repository provides the code and dataset for running space target inference
 
 # Experiment Results
 Below are some examples of the experiment results:
-![Visualization Examples of Automatic Instance Segmentation Annotations for Different Space Target Datasets](figure/mypic1.pdf)
+![Visualization Examples of Automatic Instance Segmentation Annotations for Different Space Target Datasets](figure/pic1.png)
 
-![Statistics on Space Target Instance Segmentation Results by Category: mask proportion distribution, mask counts, and mask pixel counts](figure/mypic2.pdf)
+![Statistics on Space Target Instance Segmentation Results by Category: mask proportion distribution, mask counts, and mask pixel counts](figure/pic2.png)
